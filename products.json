@@ -1,0 +1,12 @@
+[
+    {"id": 101, "name": "Smartphone", "price": 25000},
+    {"id": 102, "name": "Headset", "price": 2000},
+    {"id": 103, "name": "Laptop", "price": 60000},
+    {"id": 104, "name": "Keyboard", "price": 1500},
+    {"id": 105, "name": "Mouse", "price": 1200},
+    {"id": 106, "name": "Monitor", "price": 15000},
+    {"id": 107, "name": "External HDD", "price": 5000},
+    {"id": 108, "name": "USB Flash Drive", "price": 800},
+    {"id": 109, "name": "Smartwatch", "price": 10000},
+    {"id": 110, "name": "Tablet", "price": 20000}
+]

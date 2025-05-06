@@ -1,0 +1,44 @@
+📜 How to Use Bing Invoicer Hyderabad - Step-by-Step Guide
+
+ https://ranisesh.github.io/Billing_system/
+
+🔹1️⃣ Extract the Files
+1. Double-click on the file `Bing_Invoicer.exe` (Self-Extracting RAR).
+2. Choose a location to extract the project (Example: `C:\Bing_Invoicer`).
+3. Click Extract and wait for the process to complete.
+
+🔹2️⃣ Open the Project in VS Code
+1. Open Visual Studio Code (`VS Code`).
+2. Click File → Open Folder.
+3. Navigate to the extracted folder (`C:\Bing_Invoicer`).
+4. Click Select Folder to open it.
+
+🔹3️⃣ Start the Local Server
+If using Python, follow these steps:
+1. Open the VS Code Terminal (`Ctrl + ~`).
+2. Navigate to the project folder:
+
+In the terminal type
+cd C:\Bing_Invoicer
+
+3. Start the local server:Type
+python -m http.server 8000
+
+4. Open the browser and go to:
+http://localhost:8000/index.html
+
+🔹4️⃣ Using the Invoice System
+1. Select Customer from the dropdown.
+2. Select Product & Quantity.
+3. Click Add to Invoice to add items.
+4. Click Save Invoice to store the purchase.
+5. Click Print Invoice to generate a printable invoice.
+6. Click Daily Sales Summary or Customer Sales Report to view sales analytics.
+
+🔹5️⃣ Additional Notes
+- 💡  Ensure Python is Installed (Check with `python --version`).
+- 🛠️ If you don’t have VS Code, you can use Notepad++, Sublime Text, or Atom.
+- 🔍 If the project doesn’t load, restart the local server and refresh the browser (`Ctrl + R`).
+
+🎉Enjoy using Bing Invoicer Hyderabad! If you need help, feel free to reach out!
+

@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; max-width: 400px; margin: auto; padding: 10px; background: #f8f8f8; }
+.invoice { text-align: center; background: white; padding: 15px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+h2 { text-align: center; }
+button { width: 100%; padding: 10px; margin-top: 10px; background: #007bff; color: white; border: none; cursor: pointer; }

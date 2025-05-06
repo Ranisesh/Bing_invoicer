@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bing Invoicer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="invoice">
+        <h2>Bing Invoicer Hyderabad</h2>
+        <p>Phone: 9440624409 | Email: seshqtx@gmail.com</p>
+
+        <label>Select Customer:</label>
+        <select id="customerSelect"></select>
+
+        <label>Select Product:</label>
+        <select id="productSelect"></select>
+
+        <label>Quantity:</label>
+        <input type="number" id="quantity" min="1" value="1">
+
+        <button onclick="addToInvoice()">Add to Invoice</button>
+        <hr>
+        <div id="customerDetails"></div>
+        <hr>
+        <div id="productList"></div>
+        <hr>
+        <div id="totalAmount"></div>
+        <button onclick="saveInvoice()">Save Invoice</button>
+        <button onclick="printInvoice()">Print Invoice</button>
+        <button onclick="dailySalesSummary()">Daily Sales Summary</button>
+        <button onclick="customerSalesSummary()">Customer Sales Report</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

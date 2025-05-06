@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Seshadri", "phone": "+91 9876543210", "email": "seshadri@example.com"},
+    {"id": 2, "name": "Rajesh", "phone": "+91 9876543222", "email": "rajesh@example.com"},
+    {"id": 3, "name": "Amit", "phone": "+91 9876543233", "email": "amit@example.com"},
+    {"id": 4, "name": "Sneha", "phone": "+91 9876543244", "email": "sneha@example.com"},
+    {"id": 5, "name": "Vikram", "phone": "+91 9876543255", "email": "vikram@example.com"},
+    {"id": 6, "name": "Riya", "phone": "+91 9876543266", "email": "riya@example.com"}
+]
